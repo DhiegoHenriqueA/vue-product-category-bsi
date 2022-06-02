@@ -28,8 +28,13 @@
   "products": [
     {
       "id": 1,
-      "name": "Top Gun",
+      "name": "Top Gun gdgsdgds",
       "categoryId": 3
+    },
+    {
+      "name": "fgsdgsdgsdg",
+      "categoryId": 5,
+      "id": 3
     }
   ]
 }
