@@ -76,7 +76,7 @@ export default {
             <span> <h2>ID</h2> </span>
           </th>
           <th class="text-left">
-            <span> <h2>Descrição</h2> </span>
+            <span> <h2>Nome</h2> </span>
           </th>
           <th class="text-left">
             <span> <h2>Categoria ID</h2> </span>
